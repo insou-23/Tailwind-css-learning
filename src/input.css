@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+NZ+Guides&display=swap');
+@import "tailwindcss";
+
+@theme {
+    --font-primary:"Playwrite NZ Guides",cursive;
+}
